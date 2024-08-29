@@ -1,0 +1,3 @@
+<aura:component access="global" implements="flexipage:availableForAllPageTypes" >
+    <lightning:container src="{!$Resource.lcc_sample_d3 + '/index.html'}"/>
+</aura:component>
